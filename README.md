@@ -9,4 +9,4 @@
 
 ### Social Media
 
-[ ![Twitter Follow](https://img.shields.io/twitter/follow/JSEverywhere?style=social) ](https://twitter.com/jsforeverything)
+[ ![Twitter Follow](https://img.shields.io/twitter/follow/JSEverywhere?style=social) ](https://twitter.com/jsforeverything){:target="_blank"}

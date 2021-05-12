@@ -15,3 +15,4 @@
 
 [![Facebook Badge](https://img.shields.io/badge/-JavaScriptForEverything-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/JavaScriptForEverything/)](https://www.facebook.com/JavaScriptForEverything/)
 
+[![Instagram Badge](https://img.shields.io/badge/-JavaScriptForEverything-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/javascriptforeverything/)](https://www.instagram.com/javascriptforeverything/)

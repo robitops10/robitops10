@@ -9,3 +9,4 @@
 
 ### Social Media 
 <a href="https://twitter.com/jsforeverything" target="_blank"> ![Twitter Follow](https://img.shields.io/twitter/follow/JSEverywhere?style=social) </a>
+<a href="http://example.com/" target="_blank">Hello, world!</a>

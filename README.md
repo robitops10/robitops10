@@ -7,6 +7,5 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robitops10)](https://github.com/anuraghazra/github-readme-stats)
 
-### Social Media
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/JSEverywhere?style=social)](https://twitter.com/jsforeverything?target="_blank")
+### Social Media 
+<a href="https://twitter.com/jsforeverything" target="_blank"> ![Twitter Follow](https://img.shields.io/twitter/follow/JSEverywhere?style=social) </a>
